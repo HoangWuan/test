@@ -1,1 +1,2 @@
-alert("1")
+const yeet = window.localstorage;
+console.log(yeet);
